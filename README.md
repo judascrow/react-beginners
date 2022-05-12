@@ -1,4 +1,5 @@
-# Functional Components
+# Applying CSS Styles
 
-![1652326788757](https://user-images.githubusercontent.com/7078855/167987392-f7c85e90-2016-43fa-9dd3-12db0b9aa227.jpg)
+![1652338680795](https://user-images.githubusercontent.com/7078855/168010424-11b204ea-c8b6-4b50-b64f-8f76694c539e.jpg)
+
 
