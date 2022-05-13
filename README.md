@@ -1,6 +1,6 @@
-# Lists and Keys
+# Props & Prop Drilling
 
-![1652345413771](https://user-images.githubusercontent.com/7078855/168031489-bf5bc042-b4e3-4694-9d5e-8c715cc71534.jpg)
+![image](https://user-images.githubusercontent.com/7078855/168247391-a7af5023-1fdc-4155-9cd0-e05f9c4d7d1f.png)
 
 
 
