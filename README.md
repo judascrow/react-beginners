@@ -1,6 +1,6 @@
-# Controlled Component Inputs
+# Project Challenge
 
-![image](https://user-images.githubusercontent.com/7078855/168257726-6f60bbed-1675-4923-a8f2-e9dd25d14f26.png)
+![image](https://user-images.githubusercontent.com/7078855/168309605-9baf4408-4290-4eb0-9f64-ff63379d4361.png)
 
 
 
