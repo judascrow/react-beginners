@@ -1,6 +1,7 @@
-# Props & Prop Drilling
+# Controlled Component Inputs
 
-![image](https://user-images.githubusercontent.com/7078855/168247391-a7af5023-1fdc-4155-9cd0-e05f9c4d7d1f.png)
+![image](https://user-images.githubusercontent.com/7078855/168257726-6f60bbed-1675-4923-a8f2-e9dd25d14f26.png)
+
 
 
 
